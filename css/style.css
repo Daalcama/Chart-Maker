@@ -1,0 +1,30 @@
+h1 {
+    padding-top: 20px;
+    text-align: center
+}
+
+.buttons {
+    padding: 5px;
+    text-align: center;
+}
+
+button{
+    margin-top:5px;
+    cursor: pointer;
+}
+
+canvas {
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    ;
+    margin-bottom: 20px;
+}
+
+a {
+    color: rgb(123, 123, 227);
+}
+
+p {
+    margin-bottom: 40px;
+}
