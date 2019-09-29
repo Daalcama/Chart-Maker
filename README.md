@@ -4,6 +4,8 @@
 
 Chart-Maker is a JavaScript project that allows you to create simple charts using canvas. Responsive due to the use of Bootstrap.
 
+It was a homework for my web development studies.
+
 ### Purpose
 
 Learn JS, Canvas and how to implement Bootstrap.
